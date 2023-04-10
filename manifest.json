@@ -1,6 +1,6 @@
 {
-    "name": "cycles_ui_flutter",
-    "short_name": "cycles_ui_flutter",
+    "name": "cyclesuiflutter",
+    "short_name": "cyclesuiflutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
